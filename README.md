@@ -1,4 +1,4 @@
-# CodeRush - Compile and Execute code in 40+ languages
+# MetaCode - Compile and Execute code in 40+ languages
 
 ⚡️ A code editor that compiles and runs your code on the web.
 Build A Code IDE with React
@@ -10,7 +10,7 @@ Build A Code IDE with React
 
 ## Installations and setup
 
-- git clone `https://github.com/Sujal942/MetaCode.git`
+- git clone `https://github.com/hellosamyak/MetaCode.git`
 - `npm install`
 - A sample `.env.sample` file is given, Register on <a href="https://rapidapi.com/judge0-official/api/judge0-ce/pricing" target="__blank">RapidAPI</a> and get your API keys.
 - Create a `.env` file.
